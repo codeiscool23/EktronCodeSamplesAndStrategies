@@ -1,0 +1,22 @@
+﻿body {
+    background-color:#fff;
+    text-align:center;
+}
+
+button {
+       border: outset;
+}
+
+input {
+  background-color: #b0c4de;
+  text-align:center;
+   
+}
+
+input, button {
+    font-family: Arial;
+    border-width: thick;
+    border-color: #4682b4;
+    margin: 5px;
+}
+
